@@ -2,7 +2,7 @@
 numpy==1.22.0
 jsonpickle==1.1
 scikit-learn==0.23.1
-torch===1.13.1
+torch===2.2.0
 torchvision==0.6.0
 transformers==4.36.0
 tqdm==4.48.1
